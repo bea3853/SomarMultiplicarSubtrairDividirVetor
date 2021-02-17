@@ -1,0 +1,2 @@
+# SomarMultiplicarSubtrairDividirVetor
+Em Portugol, 
